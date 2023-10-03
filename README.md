@@ -2,7 +2,7 @@
 1. URL ELB : http://project-02-image-filter-dev.us-east-1.elasticbeanstalk.com
 2. GitHub 
     + repositories : https://github.com/dayhp/Project-02-Image-Filter.git
-    + main branch: https://github.com/dayhp/Project-02-Image-Filter/tree/main
+    + main branch: https://github.com/dayhp/Project-02-Image-Filter/tree/develop
     + develop branch: https://github.com/dayhp/Project-02-Image-Filter/tree/develop
 ## Image URL for test
     + https:https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
